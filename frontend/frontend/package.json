@@ -1,0 +1,14 @@
+{
+    "name": "modulogica-frontend",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "react-router-dom": "^6.x",
+      "leaflet": "^1.9.x",
+      "chart.js": "^4.x",
+      "@auth0/auth0-react": "^2.x",
+      "styled-components": "^6.x"
+    }
+  }
