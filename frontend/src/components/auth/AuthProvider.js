@@ -1,5 +1,5 @@
 // frontend/src/components/auth/AuthProvider.js
-import React, { createContext, useState, useContext } from 'react';
+import React, { createContext, useState } from 'react';
 import { Auth0Provider } from '@auth0/auth0-react';
 
 const AuthContext = createContext(null);
