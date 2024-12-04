@@ -1,0 +1,15 @@
+{
+    "name": "Modulogica Development",
+    "image": "mcr.microsoft.com/devcontainers/javascript-node:18",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "Vue.volar",
+                "Vue.vscode-typescript-vue-plugin",
+                "bradlc.vscode-tailwindcss",
+                "dbaeumer.vscode-eslint",
+                "esbenp.prettier-vscode"
+            ]
+        }
+    }
+}
